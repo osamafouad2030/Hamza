@@ -1,0 +1,6 @@
+{
+  "name": "تحريرات الإمام حمزة",
+  "description": "منصة تعليمية رقمية تفاعلية شاملة لدراسة تحريرات الإمام حمزة من طيبة النشر مع مدرس الذكاء الاصطناعي واختبارات تفاعلية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
